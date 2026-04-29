@@ -84,5 +84,10 @@ python -m src.main --help
       <td style="border: 1px solid #ddd; padding: 8px; font-family: monospace;">requirements.txt</td>
       <td style="border: 1px solid #ddd; padding: 8px;">List of 3rd-party packages</td>
     </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px; font-family: monospace;"></td>
+      <td style="border: 1px solid #ddd; padding: 8px; font-family: monospace;">Sudoku CLI User Manual.pdf</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">A detailed user manual for the program</td>
+    </tr>
   </tbody>
 </table>
